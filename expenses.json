@@ -1,0 +1,26 @@
+[
+    {
+        "amount": 1000.0,
+        "category": "Food",
+        "description": "lunch",
+        "date": "2025-09-21"
+    },
+    {
+        "amount": 1206.0,
+        "category": "Travel",
+        "description": "bus tickets",
+        "date": "2025-08-13"
+    },
+    {
+        "amount": 500.0,
+        "category": "Bills",
+        "description": "current",
+        "date": "2025-09-08"
+    },
+    {
+        "amount": 234.0,
+        "category": "Food",
+        "description": "dinner",
+        "date": "2025-09-21"
+    }
+]
