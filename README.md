@@ -23,7 +23,7 @@ The app also supports budgeting and CSV export, making monthly tracking faster a
 -Barchart
 ![Barchart](screenshots/barchart.png)
 -Export CSV
-![CSV](screenshots/csv.png)
+![CSV](screenshots/exportcsv.png)
 
 
 ## Tech Stack  
